@@ -1,0 +1,14 @@
+{
+    "name": "ramphor/furniture",
+    "description": "Another furniture plugin for WordPress",
+    "type": "project",
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
